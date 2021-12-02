@@ -173,3 +173,4 @@ function buildCharts(sample) {
      Plotly.newPlot("gauge", gaugeData, gaugeLayout)
    });
  }
+ 
